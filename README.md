@@ -1,4 +1,4 @@
-## CS-370 Self Learning Algorithm
+## Self Learning Algorithm
 
 ### Briefly explain the work that you did on this project:
 **What code were you given?**

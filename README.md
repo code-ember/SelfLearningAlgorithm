@@ -1,21 +1,18 @@
-# CS-370-Project
+## CS-370 Self Learning Algorithm
 
-- Briefly explain the work that you did on this project: 
+# Briefly explain the work that you did on this project:
+**What code were you given?**
+I was given the game setup code, which comprised of `GameExperience.py` and `TreasureMaze.py`.
 
+**What code did you create yourself?**
+I created the reinforcement learning algorithm and the game loops that utilize the Keras and TensorFlow libraries to accomplish the pathfinding solution.
 
-1. What code were you given? The code that was given is the game setup code that comprised of GameExperience.py and TreasureMaze.py.
+# Connect your learning from throughout this course to the larger field of computer science:
+**What do computer scientists do and why does it matter?**
+Computer scientists help solve and identify complex problems with technology in advanced ways. This work is essential as it drives innovation and advances in various fields, improving computational systems and creating solutions to real-world problems.
 
+**How do I approach a problem as a computer scientist?**
+I approached this problem with a technical mindset by utilizing my knowledge and resources to solve it efficiently. My approach involved breaking down the problem into manageable parts and leveraging the appropriate tools and techniques.
 
-2. What code did you create yourself? I created the code that includes the reinforcement learning algorithm, which I created the game loops that utilize the Keras and Tensorflow libraries in order to accomplish the pathfinding solution. 
-
-
-- Connect your learning from throughout this course to the larger field of computer science:
-
-
-1. What do computer scientists do and why does it matter? Computer scientists help solve and identify complex problems with technology in advanced ways. 
-
-
-2. How do I approach a problem as a computer scientist? I approached this problem as a computer scientist with a technical mindset by using my knowledge and resources that were given to solve this problem efficiently.
-
-
-3. What are my ethical responsibilities to the end user and the organization? Computer scientists have ethical obligations to the end user and the organization in accomplishing their responsibilities. Taking this course has changed my understanding as a developer of machine learning about the ethical responsibilities to both the end user and customer.
+**What are my ethical responsibilities to the end user and the organization?**
+Computer scientists have ethical obligations to both the end user and the organization. Taking this course has enhanced my understanding of these responsibilities, particularly as a developer of machine learning systems. It is crucial to ensure that the solutions provided are not only effective but also ethical and considerate of the end user's needs and the organization's goals.

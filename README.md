@@ -1,4 +1,4 @@
-## Self Learning Algorithm
+## Self Learning Algorithm 
 
 ### What code were you given?
 I was given the game setup code, which comprised of `GameExperience.py` and `TreasureMaze.py`.
@@ -16,3 +16,5 @@ I approached this problem with a technical mindset by utilizing my knowledge and
 
 ### What are my ethical responsibilities to the end user and the organization?
 Computer scientists have ethical obligations to both the end user and the organization. Taking this course has enhanced my understanding of these responsibilities, particularly as a developer of machine learning systems. It is crucial to ensure that the solutions provided are not only effective but also ethical and considerate of the end user's needs and the organization's goals.
+
+## CS-370
